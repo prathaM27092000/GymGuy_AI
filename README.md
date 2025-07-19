@@ -100,3 +100,4 @@ To learn more about the technologies used in this project:
 📍 Pune, India  
 📧 prathameshgujja10@outlook.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/prathamesh-gujja) | 🌐 Visit [My Portfolio](https://pratham27092000.github.io/Portfolio/) | [GitHub](https://github.com/prathaM27092000)
+[GymGuy.AI Repository](https://github.com/prathaM27092000/GymGuy_AI)
