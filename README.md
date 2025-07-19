@@ -91,3 +91,12 @@ To learn more about the technologies used in this project:
 - [Vapi Documentation](https://docs.vapi.ai)
 - [Convex Documentation](https://docs.convex.dev)
 - [Gemini AI Documentation](https://ai.google.dev/gemini-api)
+
+
+
+## 👋 Contact Author
+---
+**Prathamesh Gujja**  
+📍 Pune, India  
+📧 prathameshgujja10@outlook.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/prathamesh-gujja) | 🌐 Visit [My Portfolio](https://pratham27092000.github.io/Portfolio/) | [GitHub](https://github.com/prathaM27092000)
